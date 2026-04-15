@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "01-02-2025",
+        "Category": "food",
+        "Amount": 200.0,
+        "Description": "bread"
+    },
+    {
+        "Date": "01-02-2026",
+        "Category": "food",
+        "Amount": 100.0,
+        "Description": "bread"
+    },
+    {
+        "Date": "02-02-2026",
+        "Category": "cloth",
+        "Amount": 500.0,
+        "Description": "shirt"
+    },
+    {
+        "Date": "01-02-2025",
+        "Category": "food",
+        "Amount": 100.0,
+        "Description": "bread"
+    },
+    {
+        "Date": "02-02-2025",
+        "Category": "cloth",
+        "Amount": 500.0,
+        "Description": "shirt"
+    }
+]
